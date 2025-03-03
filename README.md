@@ -14,7 +14,7 @@
 - **Bachelor of Science [Computer Science]**  
   Gobi Arts and Science College, Gobichettipalayam  
 
-### 🔥 What I Do
+### 🔥 What drives me
 I thrive on solving real-world problems by building scalable, secure, and user-friendly web applications. Whether it’s crafting elegant interfaces or optimizing backend performance, I’m committed to delivering high-quality solutions that make an impact.
 
 ### 📫 Let’s Connect
